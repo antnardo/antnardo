@@ -17,8 +17,6 @@ before it is released.
 
 ### Other projects
 
-- [tpllg](https://github.com/antnardo/tpllg): data acquisition and analysis for
-  physics lab sessions, in French.
 - [icalsync](https://github.com/antnardo/icalsync): events with a stable key,
   kept up to date in macOS Calendar or in an iCalendar file, in French.
 - [liveboxapi](https://github.com/antnardo/liveboxapi): a synchronous Python
@@ -28,3 +26,13 @@ before it is released.
   add-ons for Synology Download Station.
 
 Bug reports and questions are welcome in the issues of each repository.
+
+### En français, enseignement de la physique
+
+| Package | PyPI | What it does |
+| --- | --- | --- |
+| [titrages](https://github.com/antnardo/titrages) | [![PyPI](https://img.shields.io/pypi/v/titrages)](https://pypi.org/project/titrages/) | Calcul de pH et de potentiel de mélanges, affichage de courbes de titrages - package autonome LuaLaTeX disponible |
+| [thermodiagrammes](https://github.com/antnardo/thermodiagrammes) | [![PyPI](https://img.shields.io/pypi/v/thermodiagrammes)](https://pypi.org/project/thermodiagrammes/) | Surcouche de CoolProp pour les diagrammes d'états thermodynamiques, API simplifiée pour un tracé rapide de diagrammes et de cycles |
+| [fieldlines](https://github.com/antnardo/fieldlines) | [![PyPI](https://img.shields.io/pypi/v/fieldlines)](https://pypi.org/project/fieldlines/) | Affichages simplifié de lignes de champ, sources électrostatiques et magnétostatiques prédéfinies |
+| [tpllg](https://github.com/antnardo/tpllg) | (hors pypi) | Acquisition de données en travaux pratiques, analyse de signaux |
+
