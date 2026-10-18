@@ -2,7 +2,7 @@
 
 I write Python tools for the jobs I would otherwise keep doing by hand:
 spreadsheets, PDF layout, LaTeX sources, class material. Most of them grew out
-of teaching; ten became packages published on PyPI, and one on CTAN. Each
+of teaching; eleven became packages published on PyPI, and one on CTAN. Each
 package is typed, tested in CI across the Python versions it supports, and
 used in my own work before it is released.
 
@@ -16,6 +16,7 @@ used in my own work before it is released.
 | [enoncepdf](https://github.com/antnardo/enoncepdf) | [![PyPI](https://img.shields.io/pypi/v/enoncepdf)](https://pypi.org/project/enoncepdf/) | Reads exam statements in PDF: finds their headings and questions, and crops them into slices without headers, footers or line numbers. |
 | [texformules](https://github.com/antnardo/texformules) | [![PyPI](https://img.shields.io/pypi/v/texformules)](https://pypi.org/project/texformules/) | LaTeX formulas typeset in one batch, cached as PNG and one-page PDF with their baseline. |
 | [latex-figures](https://github.com/antnardo/latex_figures) | [![PyPI](https://img.shields.io/pypi/v/latex-figures)](https://pypi.org/project/latex-figures/) | matplotlib figures that match their LaTeX document: size in cm, fonts, preamble, decimal comma, cropping. |
+| [liveboxapi](https://github.com/antnardo/liveboxapi) | [![PyPI](https://img.shields.io/pypi/v/liveboxapi)](https://pypi.org/project/liveboxapi/) | A synchronous client for Orange Livebox routers: read the state, change the settings, and ask the box what else it can do. |
 | [trombinoscope](https://github.com/antnardo/trombinoscope) | [![PyPI](https://img.shields.io/pypi/v/trombinoscope)](https://pypi.org/project/trombinoscope/) | A printable photo directory from a folder of raw photos and a list: every face framed the same way, colours evened out across the batch. Documentation in French. |
 
 ### Other projects
@@ -24,8 +25,6 @@ used in my own work before it is released.
   kept up to date in macOS Calendar or in an iCalendar file, in French.
 - [bpaye](https://github.com/antnardo/bpaye): a French teacher's payslips,
   computed, forecast and read back from the PDF, in French.
-- [liveboxapi](https://github.com/antnardo/liveboxapi): a synchronous Python
-  client for Orange Livebox routers.
 - [synologygofilehosting](https://github.com/antnardo/synologygofilehosting) and
   [synodl-firefox](https://github.com/antnardo/synodl-firefox): two small
   add-ons for Synology Download Station.
