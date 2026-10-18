@@ -2,8 +2,8 @@
 
 I write Python tools for the jobs I would otherwise keep doing by hand:
 spreadsheets, PDF layout, LaTeX sources, class material. Most of them grew out
-of teaching; ten became packages published on PyPI. Each package is typed,
-tested in CI across the Python versions it supports, and used in my own work
+of teaching; ten became packages published on PyPI, and one on CTAN. Each
+package is typed, tested in CI across the Python versions it supports, and used in my own work
 before it is released.
 
 ### Published packages
@@ -34,13 +34,13 @@ Bug reports and questions are welcome in the issues of each repository.
 
 ### En français, enseignement de la physique
 
-| Package | PyPI | What it does |
+| Package | PyPI / CTAN | What it does |
 | --- | --- | --- |
 | [titrages](https://github.com/antnardo/titrages) | [![PyPI](https://img.shields.io/pypi/v/titrages)](https://pypi.org/project/titrages/) | Calcul de pH et de potentiel de mélanges, affichage de courbes de titrages - package autonome LuaLaTeX disponible |
 | [thermodiagrammes](https://github.com/antnardo/thermodiagrammes) | [![PyPI](https://img.shields.io/pypi/v/thermodiagrammes)](https://pypi.org/project/thermodiagrammes/) | Surcouche de CoolProp pour les diagrammes d'états thermodynamiques, API simplifiée pour un tracé rapide de diagrammes et de cycles |
 | [fieldlines](https://github.com/antnardo/fieldlines) | [![PyPI](https://img.shields.io/pypi/v/fieldlines)](https://pypi.org/project/fieldlines/) | Affichages simplifié de lignes de champ, sources électrostatiques et magnétostatiques prédéfinies |
 | [grandeursphy](https://github.com/antnardo/grandeursphy) | (hors pypi) | Grandeurs physiques avec unités (pint), incertitudes, constantes CODATA 2022 et sortie siunitx pour pythontex |
 | [pychimie](https://github.com/antnardo/pychimie) | (hors pypi) | Thermochimie des équilibres (avancement, rupture, déplacements), éléments, formules et tableau périodique en TikZ |
-| [programmes-cpge](https://github.com/antnardo/programmes-cpge) | (hors pypi) | Les programmes officiels de physique-chimie des CPGE (MPSI, PCSI, MP, PC, PSI), à citer, parcourir et composer en LaTeX |
+| [programmes-cpge](https://github.com/antnardo/programmes-cpge) | [![CTAN](https://img.shields.io/ctan/v/programmes-cpge)](https://ctan.org/pkg/programmes-cpge) | Les programmes officiels de physique-chimie des CPGE (MPSI, PCSI, MP, PC, PSI), à citer, parcourir et composer en LaTeX |
 | [tpllg](https://github.com/antnardo/tpllg) | (hors pypi) | Acquisition de données en travaux pratiques, analyse de signaux |
 | [sysam-sp5](https://github.com/antnardo/sysam-sp5) | (hors pypi) | Pilotes, notice et kit de programmation de la centrale Sysam SP5, et un script qui vérifie qu'un poste peut la piloter depuis Python |
