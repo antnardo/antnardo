@@ -3,8 +3,8 @@
 I write Python tools for the jobs I would otherwise keep doing by hand:
 spreadsheets, PDF layout, LaTeX sources, class material. Most of them grew out
 of teaching; ten became packages published on PyPI, and one on CTAN. Each
-package is typed, tested in CI across the Python versions it supports, and used in my own work
-before it is released.
+package is typed, tested in CI across the Python versions it supports, and
+used in my own work before it is released.
 
 ### Published packages
 
